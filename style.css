@@ -1,0 +1,8 @@
+body{
+    background-color: gray;
+}
+.bottoni{
+    height: 50px;
+    width: 100px;
+}
+.border_radius { border-radius: 10px 10px 10px 10px; }

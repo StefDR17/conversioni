@@ -1,0 +1,13 @@
+.border_radius { border-radius: 10px 10px 10px 10px; }
+body{
+    background-color:gray;
+}
+#titolo{
+    color: black;
+}
+#name{
+    color:black;
+}
+#risultato{
+    color:black;
+}
